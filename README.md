@@ -66,5 +66,5 @@ To convert raw HR data into meaningful insights that support strategic workforce
 
 This project demonstrates strong analytical thinking and business problem-solving using Tableau.
 
-Dashboard Preview Show the dashboard looks like : 
+Dashboard Preview Show the dashboard looks like : https://github.com/Shubhamkadam3444/HR-Analytics_Tableau/blob/main/HR%20Analytics%20Dashboard%20snap.png
 
